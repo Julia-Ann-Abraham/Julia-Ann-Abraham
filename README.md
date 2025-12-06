@@ -22,14 +22,15 @@ Here are some ideas to get you started:
 
 
 # 🔭 Projects & Practice  
-- 📝 `learning-notes` — my coding practice & study notes  
+- 📝 `learning-notes` — my coding practice & study notes
+- 👩‍💻 `Leet-Notes` — my personal notes on leetcode website
 - 🐍 `python-basics` — beginner Python exercises  
 - 📁 `college-labs` — simple first-year lab programs
 
 
 # 🛠 Skills (in progress)
 - Beginner: Python 
-- Learning: Git, VS Code, Command line
+- Learning: Git, VS Code, Command line, Leet Code
 
 
 # 📫 Contact
