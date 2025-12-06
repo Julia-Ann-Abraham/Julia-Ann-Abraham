@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🎓 B.Tech CSE — First Year | Beginner coder  
 🌱 Currently learning: Python, Git, Data Structures  
-💡 Interests: Cybersecurity, AI, Forensics
+💡 Interests: Cybersecurity, AI, Forensics  
 😄 Pronouns: She/her
 
 
