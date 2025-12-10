@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 💡 Interests: Cybersecurity, AI, Forensics  
 😄 Pronouns: She/her
 
-✔️⏳
+
 # 🔭 Projects & Practice  
 - 📝 `learning-notes` — my coding practice & study notes
 - 👩‍💻 `Leet-Notes` — my personal notes on leetcode website
