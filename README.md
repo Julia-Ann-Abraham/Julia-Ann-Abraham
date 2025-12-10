@@ -20,12 +20,15 @@ Here are some ideas to get you started:
 💡 Interests: Cybersecurity, AI, Forensics  
 😄 Pronouns: She/her
 
-
+✔️⏳
 # 🔭 Projects & Practice  
 - 📝 `learning-notes` — my coding practice & study notes
 - 👩‍💻 `Leet-Notes` — my personal notes on leetcode website
+- 🔐 `Leet-problems` — learnt leet problems
+- 📩 `command-prompts` — *fyi prompts* to use in both git & system cmd
 - 🐍 `python-basics` — beginner Python exercises  
 - 📁 `college-labs` — simple first-year lab programs
+- [✔️⏳]
 
 
 # 🛠 Skills (in progress)
